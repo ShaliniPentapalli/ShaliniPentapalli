@@ -1,9 +1,11 @@
-<h1 align="center">Hi there👋, Shalini here!!</h1>
+<h1 align="center">Hi there 👋, Shalini here</h1>
 <h3 align="center">Crafting the future with code and creativity!!</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalinipentapalli&label=Profile%20views&color=0e75b6&style=flat" alt="shalinipentapalli" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalinipentapalli" alt="shalinipentapalli" /></a> </p>
 
 - 📫 How to reach me **shalinipentapalli@gmail.com**
 
